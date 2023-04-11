@@ -24,9 +24,6 @@ To edit this repository in MakeCode.
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
-
-
-
 #### Metadata (used for search, rendering)
 
 * for PXT/arcade
